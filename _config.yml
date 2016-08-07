@@ -1,4 +1,3 @@
-layout_spectrum: 0.27009179699234664
 typography_spectrum: 0.6893589431419969
 color:
   brandStrength: 0.9883357763756067
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.27009179699234664
 name: Tu Voz Es
 title: Y NOSOTROS
+description: "TU \_ECO \_!"
